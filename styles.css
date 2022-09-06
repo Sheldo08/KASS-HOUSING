@@ -1,0 +1,85 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: aquamarine;
+    background-image: linear-gradient(45deg, aquamarine, black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0%;
+}
+.form{
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px 40px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.header{
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 20px 40px;
+}
+.form input{
+    font-size: 18px;
+    padding: 10px 20px 10px 5px;
+    border: none;
+    outline: none;
+    background: none;
+}
+.logo{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    margin: 0 auto; 
+}
+.logo img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+
+.username, .password, .re-password, .email{
+    display: block;
+    border-radius: 30px;
+    border: 1px solid rgba(0, 0, 0,0.2);
+    padding: 10px;
+    margin: 10px 0;
+}
+.options{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 0px;
+    margin-bottom: 30px;
+}
+.error {
+    width: 92%; 
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: 1px solid #ad9444;
+    background: rgba(255, 34, 34, 0.933);
+}
+.Dep{
+    font-size: 18px;
+    padding: 10px 20px 10px 5px;
+    border: none;
+    outline: none;
+    background: none;
+}
+button.signin-btn, button.signup-btn{
+    width: 100%;  
+    padding: 12px 10px;
+    border: none;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: cornflowerblue;
+    color: #fff;
+    margin-bottom: 5px;
+  
+  
+  }
