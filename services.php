@@ -30,7 +30,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php">SheldonHomes</a>
+	      <a class="navbar-brand" href="index.php">KASS HOUSING</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -174,7 +174,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">SheldonHomes</h2>
+              <h2 class="ftco-heading-2">KASS HOUSING</h2>
               <p>A home away from home</p>
               <ul class="ftco-footer-social list-unstyled mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -217,7 +217,7 @@
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Home No.11 Legon - Main campus, University of Ghana</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+233 50 919 1783</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">homes@gmail.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">kasshousing@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>

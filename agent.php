@@ -30,7 +30,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Findstate</a>
+	      <a class="navbar-brand" href="index.html">KASS HOUSING</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -93,7 +93,7 @@
 		    				<img src="images/team-3.jpg" class="img-fluid" alt="Colorlib Template">
 	    				</div>
 	    				<div class="desc">
-	    					<h3><a href="properties.html">Quarm Agyei</a></h3>
+	    					<h3><a href="properties.html">Quarm Kwame Agyei</a></h3>
 								<p class="h-info"><span class="ion-ios-filing icon"></span> <span class="details">0262483419</span></p>
 	    				</div>
     				</div>
@@ -109,7 +109,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">SheldonHomes</h2>
+              <h2 class="ftco-heading-2">Kass housing</h2>
               <p>A home away from home</p>
               <ul class="ftco-footer-social list-unstyled mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>

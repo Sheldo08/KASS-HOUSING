@@ -30,7 +30,7 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">SheldonHomes</a>
+	      <a class=",navbar-brand" href="index.html"><b><h2><b>KASS HOUSING</b></h2></b></a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -110,10 +110,10 @@
 		          					<div class="select-wrap">
 		                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
 		                      <select name="" id="" class="form-control">
+		                        <option value="">GHC 200</option>
+		                        <option value="">GHC 250</option>
+		                        <option value="">GHC 300</option>
 		                        <option value="">GHC 400</option>
-		                        <option value="">GHC 500</option>
-		                        <option value="">GHC 600</option>
-		                        <option value="">GHC 1000</option>
 		                       
 		                        
 		                      </select>
@@ -154,8 +154,8 @@
         				
         			</div>
         			<div class="text">
-        				<p class="price mb-3"><span class="orig-price">GHC 750<small>/mo</small></span></p>
-        				<h3 class="mb-0"><a href="properties.php">Blue View Home</a></h3>
+        				<p class="price mb-3"><span class="orig-price">GHC 400<small>/mo</small></span></p>
+        				<h3 class="mb-0"><a href="properties.php">Mr Tee</a></h3>
         				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Opposite Madina police station, Madina</span>
         				<ul class="property_list">
         					<li><span class="flaticon-bed"></span>3</li>
@@ -173,12 +173,12 @@
         				
         			</div>
         			<div class="text">
-        				<p class="price mb-3"><span class="orig-price">GHC 750<small>/mo</small></span></p>
-        				<h3 class="mb-0"><a href="properties.php">Blue View Home</a></h3>
-        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Opposite Madina police station, Madina</span>
+        				<p class="price mb-3"><span class="orig-price">GHC 300<small>/mo</small></span></p>
+        				<h3 class="mb-0"><a href="properties.php">EmmaSaara</a></h3>
+        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Dansoman</span>
         				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
+        					<li><span class="flaticon-bed"></span>1</li>
+        					<li><span class="flaticon-bathtub"></span>1</li>
         				</ul>
         			</div>
         		</div>
@@ -192,12 +192,12 @@
         				
         			</div>
         			<div class="text">
-        				<p class="price mb-3"><span class="orig-price">GHC 750<small>/mo</small></span></p>
-        				<h3 class="mb-0"><a href="properties.php">Blue View Home</a></h3>
-        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Opposite Madina police station, Madina</span>
+        				<p class="price mb-3"><span class="orig-price">GHC 200<small>/mo</small></span></p>
+        				<h3 class="mb-0"><a href="properties.php">Bright</a></h3>
+        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Ablekuma</span>
         				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
+        					<li><span class="flaticon-bed"></span>1</li>
+        					<li><span class="flaticon-bathtub"></span>1</li>
         				</ul>
         			</div>
         		</div>
@@ -211,12 +211,12 @@
         				
         			</div>
         			<div class="text">
-        				<p class="price mb-3"><span class="orig-price">GHC 750<small>/mo</small></span></p>
-        				<h3 class="mb-0"><a href="properties.php">Blue View Home</a></h3>
-        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Opposite Madina police station, Madina</span>
+        				<p class="price mb-3"><span class="orig-price">GHC 300<small>/mo</small></span></p>
+        				<h3 class="mb-0"><a href="properties.php">Cosby</a></h3>
+        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Dansoman</span>
         				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
+        					<li><span class="flaticon-bed"></span>1</li>
+        					<li><span class="flaticon-bathtub"></span>1</li>
         				</ul>
         			</div>
         		</div>
@@ -230,12 +230,12 @@
         				
         			</div>
         			<div class="text">
-        				<p class="price mb-3"><span class="orig-price">GHC 750<small>/mo</small></span></p>
-        				<h3 class="mb-0"><a href="properties.php">Blue View Home</a></h3>
-        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Opposite Madina police station, Madina</span>
+        				<p class="price mb-3"><span class="orig-price">GHC 250<small>/mo</small></span></p>
+        				<h3 class="mb-0"><a href="properties.php">Blue View</a></h3>
+        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Tema</span>
         				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
+        					<li><span class="flaticon-bed"></span>1</li>
+        					<li><span class="flaticon-bathtub"></span>1</li>
         				</ul>
         			</div>
         		</div>
@@ -249,19 +249,35 @@
         				
         			</div>
         			<div class="text">
-        				<p class="price mb-3"><span class="orig-price">GHC 750<small>/mo</small></span></p>
-        				<h3 class="mb-0"><a href="properties.php">Blue View Home</a></h3>
-        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Opposite Madina police station, Madina</span>
+        				<p class="price mb-3"><span class="orig-price">GHC 250<small>/mo</small></span></p>
+        				<h3 class="mb-0"><a href="properties.php">Saara</a></h3>
+        				<span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Madina</span>
         				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
+        					<li><span class="flaticon-bed"></span>1</li>
+        					<li><span class="flaticon-bathtub"></span>1</li>
         				</ul>
         			</div>
         		</div>
         	</div>
-        	</div>
-        </div>
-    	</div>
+                  <div class="col-md-4">
+                     <div class="property-wrap ftco-animate">
+                         <div class="img d-flex align-item-center justify-content-center" style="background-image: url(images/sheldoo.jpg);">
+                             <a href="properties.php" class="icon d-flex align-items-center justify-content-center btn-custom">
+                                <span class="ion-ios-link"></span>
+                             </a>
+
+                         </div>
+				         <div class="text">
+				             <p class="price mb-3"><span class="orig-price">GHC 250<small>/mo</small></span></p>
+				             <h3 class="mb-0"><a href="properties.php">Ceemoney</a></h3>
+				              <span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Madina</span>
+        			          <ul class="property_list">
+        					 <li><span class="flaticon-bed"></span>1</li>
+        					 <li><span class="flaticon-bathtub"></span>1</li>
+                               </ul>	
+                     </div>
+                </div>
+            </div>
     </section>
 
     <section class="ftco-section ftco-fullwidth">
@@ -330,7 +346,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">SheldonHomes</h2>
+              <h2 class="ftco-heading-2">KASS HOUSING</h2>
               <p>A home away from home</p>
               <ul class="ftco-footer-social list-unstyled mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>

@@ -85,7 +85,7 @@
 		          	<div class="icon mb-3 d-flex align-items-center justify-content-center">
 		          		<span class="icon-envelope-o"></span>
 		          	</div>
-		            <p><span>Email:</span> <a href="mailto:info@yoursite.com">sheldon11@gmail.com</a></p>
+		            <p><span>Email:</span> <a href="mailto:info@yoursite.com">kasshousingG@gmail.com</a></p>
 		          </div>
 		        </div>
           </div>
@@ -110,9 +110,7 @@
               </div>
             </form>
           </div>
-          <div class="col-md-6 align-items-stretch d-flex">
-        		<div id="map" class="bg-white border"></div>
-          </div>
+          
         </div>
       </div>
     </section>
@@ -122,7 +120,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">SheldonHomes</h2>
+              <h2 class="ftco-heading-2">KASS HOUSING</h2>
               <p>A home away from home</p>
               <ul class="ftco-footer-social list-unstyled mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
