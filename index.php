@@ -269,8 +269,8 @@
                          </div>
 				         <div class="text">
 				             <p class="price mb-3"><span class="orig-price">GHC 250<small>/mo</small></span></p>
-				             <h3 class="mb-0"><a href="properties.php">Ceemoney</a></h3>
-				              <span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Madina</span>
+				             <h3 class="mb-0"><a href="properties.php">kinsman</a></h3>
+				              <span class="location d-inline-block mb-3"><i class="ion-ios-pin mr-2"></i>Dansoman</span>
         			          <ul class="property_list">
         					 <li><span class="flaticon-bed"></span>1</li>
         					 <li><span class="flaticon-bathtub"></span>1</li>

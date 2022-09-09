@@ -152,7 +152,7 @@
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Home No.11 Legon - Main campus, University of Ghana</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+233 50 919 1783</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">homes@gmail.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope pr-4"></span><span class="text">kasshousing@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
